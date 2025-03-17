@@ -6,19 +6,20 @@ This repository showcases my CAD designs created as part of my work in AEROMIT a
 #Contents  
 This repository includes :
 
-#1. VTOL UAV Design - A concept design rotating front propellers capable of vertical take off and landing
-#2. Ducted fan Design - A blended wing body incorporated with a ducted fan system designed for quite and smooth operations
-#3. Circuit Assembly - A detailed circuit layout to showcase my modelling proficiency
-#4. 
+1. VTOL UAV Design - A concept design rotating front propellers capable of vertical take off and landing  
+2. Ducted fan Design - A blended wing body incorporated with a ducted fan system designed for quite and smooth operations  
+3. Circuit Assembly - A detailed circuit layout to showcase my modelling proficiency  
+4. CFD Simulation - A CFD simulation and analysis of a concept design for research purposes  
+5. FEA Analysis -   
 
 
-#Software Used
-#1. SolidWorks
-#2. Ansys (for structural and CFD Analysis)
+#Software Used  
+1. SolidWorks  
+2. Ansys (for structural and CFD Analysis)  
 
-#How to View the Models
-#1. Download the .STEP and 
-#2. Open them in SolidWorks
-#3. For FEA simulations, open ANSYS Workbench and load the .ANSYS files
-34. Navigate to the Solution module to review results
+#How to View the Models  
+1. Download the .SLDPRT and .SLDASM files   
+2. Open them in SolidWorks  
+3. For FEA simulations, open ANSYS Workbench and load the .ANSYS files  
+4. Navigate to the Solution module to review results  
 #5. If you don’t have ANSYS, check screenshots for key findings.
