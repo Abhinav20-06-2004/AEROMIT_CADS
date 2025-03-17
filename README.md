@@ -10,7 +10,7 @@ This repository includes :
 2. Ducted fan Design - A blended wing body incorporated with a ducted fan system designed for quite and smooth operations  
 3. Circuit Assembly - A detailed circuit layout to showcase my modelling proficiency  
 4. CFD Simulation - A CFD simulation and analysis of a concept design for research purposes  
-5. FEA Analysis -   
+5. FEA Analysis - A static structural analysis of a concept based UAV design  
 
 
 #Software Used  
