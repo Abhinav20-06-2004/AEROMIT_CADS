@@ -22,4 +22,4 @@ This repository includes :
 2. Open them in SolidWorks  
 3. For FEA simulations, open ANSYS Workbench and load the .ANSYS files  
 4. Navigate to the Solution module to review results  
-#5. If you don’t have ANSYS, check screenshots for key findings.
+5. If you don’t have ANSYS, check screenshots for key findings.  
